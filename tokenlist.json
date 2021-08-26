@@ -1,0 +1,15 @@
+{ "tokens": [
+
+  {
+    "contract-address" : "0x60781c2586d68229fde47564546784ab3faca982",
+    "chainId" : 43114,
+    "name" : "Pangolin",
+    "symbol" : "PNG",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x60781c2586d68229fde47564546784ab3faca982/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
+  }
+
+  ]
+}
