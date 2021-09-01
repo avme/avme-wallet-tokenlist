@@ -301,12 +301,12 @@
     "tooltipMessage" : ""
   },
   {
-    "contract-address" : "0x488F73cddDA1DE3664775fFd91623637383D6404",
+    "contract-address" : "0x488f73cddda1de3664775ffd91623637383d6404",
     "chainId" : 43114,
     "name" : "YetiSwap",
     "symbol" : "YTS",
     "decimals" : 18,
-    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x488F73cddDA1DE3664775fFd91623637383D6404/logo.png",
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x488f73cddda1de3664775ffd91623637383d6404/logo.png",
     "message" : "",
     "tooltipMessage" : ""
   }
