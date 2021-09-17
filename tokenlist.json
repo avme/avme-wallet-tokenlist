@@ -309,6 +309,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x488f73cddda1de3664775ffd91623637383d6404/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4",
+    "chainId" : 43114,
+    "name" : "Everest Token",
+    "symbol" : "EVRT",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
