@@ -319,6 +319,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa",
+    "chainId" : 43114,
+    "name" : "Swift Finance",
+    "symbol" : "SWIFT",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
