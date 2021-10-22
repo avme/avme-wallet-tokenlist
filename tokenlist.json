@@ -329,6 +329,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
+    "chainId" : 43114,
+    "name" : "Ape-X",
+    "symbol" : "APE-X",
+    "decimals" : 9,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
