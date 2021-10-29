@@ -339,6 +339,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+    "chainId" : 43114,
+    "name" : "Elk",
+    "symbol" : "ELK",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
