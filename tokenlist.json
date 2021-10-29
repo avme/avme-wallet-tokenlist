@@ -349,6 +349,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0xbe6d6323ea233fd1dbe1ff66c5252170c69fb6c7",
+    "chainId" : 43114,
+    "name" : "ZUBAX Token",
+    "symbol" : "ZUBAX",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xbe6d6323ea233fd1dbe1ff66c5252170c69fb6c7/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
