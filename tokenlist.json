@@ -359,6 +359,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xbe6d6323ea233fd1dbe1ff66c5252170c69fb6c7/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x90842eb834cfd2a1db0b1512b254a18e4d396215",
+    "chainId" : 43114,
+    "name" : "Good Bridging",
+    "symbol" : "GB",
+    "decimals" : 9,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x90842eb834cfd2a1db0b1512b254a18e4d396215/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
