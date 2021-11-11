@@ -369,6 +369,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x90842eb834cfd2a1db0b1512b254a18e4d396215/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x885d748c00a279b67a7749ec6b03301700dd0455",
+    "chainId" : 43114,
+    "name" : "Maximus",
+    "symbol" : "MAXI",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x885d748c00a279b67a7749ec6b03301700dd0455 /logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
