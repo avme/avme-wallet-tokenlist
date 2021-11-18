@@ -399,6 +399,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x8b1d98a91f853218ddbb066f20b8c63e782e2430/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x25afd99fcb474d7c336a2971f26966da652a92bc",
+    "chainId" : 43114,
+    "name" : "PARTY V2",
+    "symbol" : "PARTY",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x25afd99fcb474d7c336a2971f26966da652a92bc/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
