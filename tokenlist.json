@@ -389,6 +389,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xb00f1ad977a949a3ccc389ca1d1282a2946963b0/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x8b1d98a91f853218ddbb066f20b8c63e782e2430",
+    "chainId" : 43114,
+    "name" : "OrcaDAO",
+    "symbol" : "ORCA",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x8b1d98a91f853218ddbb066f20b8c63e782e2430/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
