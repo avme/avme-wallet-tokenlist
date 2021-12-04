@@ -419,6 +419,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x7c08413cbf02202a1c13643db173f2694e0f73f0",
+    "chainId" : 43114,
+    "name" : "Maximizer",
+    "symbol" : "MAXI",
+    "decimals" : 9,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x7c08413cbf02202a1c13643db173f2694e0f73f0/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
