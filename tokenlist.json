@@ -429,6 +429,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x7c08413cbf02202a1c13643db173f2694e0f73f0/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0xcf7101f34dba0f3d5ffafd3d3aa2b3fc20c08775",
+    "chainId" : 43114,
+    "name" : "AvaOne",
+    "symbol" : "AVAO",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xcf7101f34dba0f3d5ffafd3d3aa2b3fc20c08775/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
