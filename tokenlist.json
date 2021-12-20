@@ -449,6 +449,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x8ae8be25c23833e0a01aa200403e826f611f9cd2",
+    "chainId" : 43114,
+    "name" : "CRAFT",
+    "symbol" : "CRAFT",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x8ae8be25c23833e0a01aa200403e826f611f9cd2/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
