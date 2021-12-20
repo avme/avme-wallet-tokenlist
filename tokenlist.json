@@ -439,6 +439,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xcf7101f34dba0f3d5ffafd3d3aa2b3fc20c08775/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33",
+    "chainId" : 43114,
+    "name" : "JoeBar",
+    "symbol" : "XJOE",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
