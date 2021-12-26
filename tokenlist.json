@@ -328,10 +328,7 @@
     "decimals" : 18,
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa/logo.png",
     "message" : "",
-    "tooltipMessage" : ""
-  },
-  {
-    "contract-address" : "0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5",
+    "tooltipMessage" : ""0xECF4e40E564A1DE686d89142A0963d908579daaAacfb5",
     "chainId" : 43114,
     "name" : "Ape-X",
     "symbol" : "APE-X",
@@ -431,12 +428,12 @@
     "tooltipMessage" : ""
   },
   {
-    "contract-address" : "0xcf7101f34dba0f3d5ffafd3d3aa2b3fc20c08775",
+    "contract-address" : "0xecf4e40e564a1de686d89142a0963d908579daaa",
     "chainId" : 43114,
     "name" : "AvaOne",
     "symbol" : "AVAO",
     "decimals" : 18,
-    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xcf7101f34dba0f3d5ffafd3d3aa2b3fc20c08775/logo.png",
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xecf4e40e564a1de686d89142a0963d908579daaa/logo.png",
     "message" : "",
     "tooltipMessage" : ""
   },
