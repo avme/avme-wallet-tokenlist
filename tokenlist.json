@@ -459,6 +459,16 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x8ae8be25c23833e0a01aa200403e826f611f9cd2/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0xb72ab6f7177bbb41efcc17d817778d77460259f1",
+    "chainId" : 43114,
+    "name" : "Traverse",
+    "symbol" : "VERSE",
+    "decimals" : 9,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0xb72ab6f7177bbb41efcc17d817778d77460259f1/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
