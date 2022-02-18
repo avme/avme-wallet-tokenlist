@@ -499,6 +499,36 @@
     "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x9c5bbb5169b66773167d86818b3e149a4c7e1d1a/logo.png",
     "message" : "",
     "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x9c5bbb5169b66773167d86818b3e149a4c7e1d1a",
+    "chainId" : 43114,
+    "name" : "RADI",
+    "symbol" : "RADI",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x9c5bbb5169b66773167d86818b3e149a4c7e1d1a/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x15c841043e13ffaa9a99fabea236d40f45615623",
+    "chainId" : 43114,
+    "name" : "$BUSINESSES",
+    "symbol" : "BIZ",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x15c841043e13ffaa9a99fabea236d40f45615623/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
+  },
+  {
+    "contract-address" : "0x4b322765d761984c0f9e72200b62a9b445f38cac",
+    "chainId" : 43114,
+    "name" : "$DOLLA",
+    "symbol" : "DOLLA",
+    "decimals" : 18,
+    "logoURI" : "https://raw.githubusercontent.com/avme/avme-wallet-tokenlist/main/icons/0x4b322765d761984c0f9e72200b62a9b445f38cac/logo.png",
+    "message" : "",
+    "tooltipMessage" : ""
   }
   ]
 }
